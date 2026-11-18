@@ -1,0 +1,26 @@
+@media(max-width:576px){
+    .one{
+        background-color: rgb(20, 97, 20);
+        color:white
+    }
+}
+
+@media(min-width:576px) and (max-width:768px){
+    .one{
+        background-color: rgb(106, 106, 145);
+        color:orange;
+    }
+}
+
+@media(min-width:768px) and (max-width:992px){
+    .one{
+        background-color: rgb(80, 139, 130);
+        color:white;
+    }
+}
+@media(min-width:1200px){
+    .one{
+        background-color: rgb(40, 17, 79);
+        color:white;
+    }
+}
